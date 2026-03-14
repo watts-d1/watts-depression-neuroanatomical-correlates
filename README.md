@@ -44,7 +44,7 @@ watts-depression-neuroanatomical-correlates/
 
 ## Data availability
 
-Analyses use UK Biobank data (Application [AUTHOR: insert application number]). Data are available to approved researchers via the UK Biobank access process: https://www.ukbiobank.ac.uk/enable-your-research/apply-for-access
+Analyses use UK Biobank data (Application 32568). Data are available to approved researchers via the UK Biobank access process: https://www.ukbiobank.ac.uk/enable-your-research/apply-for-access
 
 ## Dependencies
 
